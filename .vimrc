@@ -4,6 +4,7 @@ set tabstop=4
 set shiftwidth=4
 set smarttab
 set expandtab
+set nobackup
 
 " An example for a vimrc file.
 "
