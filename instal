@@ -1,9 +1,8 @@
-sudo apt update
 sudo apt install libreoffice snapd
-sudo systemctl enable snapd.sevice
-sudo sevice snapd start
-sudo systemctl enable snapd.apparmor.sevice
-sudo systemctl start snapd.apparmor.sevice
+sudo systemctl enable snapd
+sudo service snapd start
+sudo systemctl enable snapd.apparmor
+sudo systemctl start snapd.apparmor
 sudo snap install telegram-desktop
 sudo snap install codium --classic
 
