@@ -2,9 +2,11 @@ syntax on
 set number
 set tabstop=4
 set shiftwidth=4
+set softtabstop=4
 set smarttab
-set expandtab
-set nobackup
+set smartindent
+set langmap=ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯ;ABCDEFGHIJKLMNOPQRSTUVWXYZ,фисвуапршолдьтщзйкыегмцчня;abcdefghijklmnopqrstuvwxyz
+
 
 " An example for a vimrc file.
 "
