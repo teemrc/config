@@ -6,6 +6,9 @@ set softtabstop=4
 set smarttab
 set smartindent
 set langmap=ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯ;ABCDEFGHIJKLMNOPQRSTUVWXYZ,фисвуапршолдьтщзйкыегмцчня;abcdefghijklmnopqrstuvwxyz
+set undodir=/home/teemrc/.vim/tmp/undo
+set backupdir=/home/teemrc/.vim/tmp/backup
+set directory=/home/teemrc/.vim/tmp/swap
 
 
 " An example for a vimrc file.
